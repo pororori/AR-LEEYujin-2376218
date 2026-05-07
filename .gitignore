@@ -9,3 +9,11 @@ AR_iOS_Build/
 *.a
 *.dylib
 Packages/com.ptc.vuforia.engine*/
+.DS_Store
+.vscode/
+UserSettings/
+Logs/
+QCAR/
+Untitled.xcworkspace/
+*.sln
+*.csproj
