@@ -1,0 +1,11 @@
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+iOS_Build/
+AR_iOS_Build/
+*.tgz
+*.a
+*.dylib
+Packages/com.ptc.vuforia.engine*/
